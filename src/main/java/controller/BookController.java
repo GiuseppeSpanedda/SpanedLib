@@ -44,7 +44,7 @@ public class BookController {
         return null;
     }
 
-    // Endpoint per eliminare un libro
+    // Endpoint per eliminare un libr0!
     @DeleteMapping("/{id}")
     public void deleteBook(@PathVariable Long id) {
         bookRepository.deleteById(id);
