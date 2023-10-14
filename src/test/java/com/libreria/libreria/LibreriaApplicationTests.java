@@ -1,10 +1,10 @@
-package libr.lib;
+package com.libreria.libreria;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class LibApplicationTests {
+class LibreriaApplicationTests {
 
 	@Test
 	void contextLoads() {
