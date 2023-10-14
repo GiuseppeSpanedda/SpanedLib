@@ -1,10 +1,10 @@
-package com.controller;
+package com.books.controller;
 
 
-import com.entity.Book;
+import com.books.entity.Book;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
-import com.service.BookService;
+import com.books.service.BookService;
 
 import java.util.List;
 
